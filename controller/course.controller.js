@@ -138,8 +138,3 @@ exports.deleteByCourseId = async (req, res) => {
         });
     }
 };
-
-
-
-
-
